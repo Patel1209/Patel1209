@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnandPatel
+- 👋 Hi, I’m @AnandBhaiPatel
 - 👀 I’m interested in programming and hacking
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on ...
